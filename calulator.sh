@@ -16,3 +16,12 @@ echo ""
 echo "Subtraction of the entered numbers is:"
 result1=$((num1-num2))
 echo result1
+echo ""
+echo "Multiplication of the entered numbers is:"
+result2=$((num1*num2))
+echo $result2
+echo ""
+echo "Division of the entered numbers is:"
+result3=$((num1/num2))
+echo $result3
+
