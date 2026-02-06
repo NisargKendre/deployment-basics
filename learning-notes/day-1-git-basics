@@ -1,0 +1,33 @@
+Day 1 – Git Basics & Repository Setup
+
+What I did:
+- Created a local directory to practice Git commands
+
+- Initialized a Git repository using git init
+
+- Created a simple Bash script (calculator.sh) to understand file tracking
+
+- Learned the Git workflow:
+  . git status
+  . git add
+  . git commit
+
+- Understood the difference between:
+  . A local-only Git repository
+  . A remote GitHub repository
+
+- Created a public GitHub repository (deployment-basics)
+
+- Cloned the GitHub repository to my local machine
+
+- Copied the Bash script into the cloned repository
+
+- Committed the file inside the cloned repo
+
+- Learned why GitHub no longer allows password-based authentication
+
+- Set up SSH authentication for GitHub
+
+- Switched the repository remote from HTTPS to SSH
+
+- Successfully pushed the code to GitHub using git push
