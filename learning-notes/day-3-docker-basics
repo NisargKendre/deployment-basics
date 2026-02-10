@@ -1,0 +1,11 @@
+Day 3 – Docker Basics (What I Did)
+Objective
+Get hands-on with Docker by containerizing a simple CLI calculator app and understanding how images, containers, commands, and debugging actually work in practice
+
+Step 1: Wrote a Dockerfile
+Step 2: Built the Docker Image
+Step 3: Ran the Container
+Step 4: Named and Reused Containers
+Step 5: Checked Container State
+Step 6: Debugged Using Logs
+Step 7: Got Inside the Container
