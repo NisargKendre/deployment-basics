@@ -1,0 +1,21 @@
+Day 2 – Git Pull, Branching & Merging 
+
+What I Did: 
+ - Synced local repo with GitHub
+   . Created a new folder (learning-notes) directly in GitHub
+   . When I checked locally, the folder was missing
+   . Understood that git pull is required to bring remote changes into the local repository
+ - Created and worked with branches
+   . Created a new branch for test-branch for learning
+   . Understood that branches are local by default and don’t appear on GitHub unless pushed
+ - Faced upstream error and fixed it
+   . When I tried to push test-branch, got an error saying no upstream branch exists
+   . Used: git push -u origin test-branch
+   . Learned that: -u sets the upstream & After this, git push works normally 
+ - Planned feature-based development using branches
+   . calculator.sh in main already had addition and subtraction
+   . Decided to: Add multiplication and division in test-branch & Merge the branch into main
+   . Learned that this is the correct and safe way to develop new features
+  - Understood merging workflow 
+   . Learned the correct merge process 
+   . Understood that: main should stay stable & Feature branches are merged only after work is complete
