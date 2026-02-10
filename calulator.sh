@@ -11,11 +11,11 @@ read num2
 echo ""
 echo "Addition of the entered numbers is:"
 result=$((num1+num2))
-echo result
+echo $result
 echo ""
 echo "Subtraction of the entered numbers is:"
 result1=$((num1-num2))
-echo result1
+echo $result1
 echo ""
 echo "Multiplication of the entered numbers is:"
 result2=$((num1*num2))
