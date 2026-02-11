@@ -1,0 +1,9 @@
+Day 4 – Docker Basics (Cleanup, Volumes & Data Persistence)
+
+What I Did:
+
+1. Cleaning Up Stopped Containers
+2. Understanding Docker Volumes
+3. Running Container with Volume Attached
+4. Simulating a Container Crash
+5. Attaching Existing Volume to New Container
